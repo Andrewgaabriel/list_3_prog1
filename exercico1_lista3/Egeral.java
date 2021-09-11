@@ -1,0 +1,4 @@
+class Egeral extends Exception{
+
+    
+}

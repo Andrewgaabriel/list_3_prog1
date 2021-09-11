@@ -1,0 +1,3 @@
+class Ecaminho extends Emovimento {
+    
+}

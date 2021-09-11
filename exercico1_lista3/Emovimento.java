@@ -1,0 +1,3 @@
+class Emovimento extends Egeral {
+    
+}

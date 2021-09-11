@@ -1,0 +1,3 @@
+class Erecurso extends Egeral {
+    
+}
